@@ -1,2 +1,2 @@
 # ALEeMAYA-Client-BE
-The Repository of ALEeMAYA Client for Bedrock Edition 
+La Repository dell'ALEeMAYA Client per Bedrock Edition 
